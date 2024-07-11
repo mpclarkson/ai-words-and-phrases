@@ -9,8 +9,8 @@ This is a list of words that are commonly (over) used in AI generated content su
 - In today’s fast-paced digital landscape
 - Our team of experts is dedicated to
 
-...and more in [words.txt](words.txt)
+The full list is in [words.txt](words.txt)
 
 I am manually compiling this for my own personal interest and use. 
 
-Feel free to submit PRs!
+Feel free to submit PRs by editing words.txt
